@@ -2,7 +2,7 @@
 This repo has Dark Web scrapy spiders. These were actually used to get data.
 
 ## What differentiates this from normal scrapers?
-In the dark web, CAPTCHAs pose a problem for spiders. This was taken care of by solving CAPTCHAs manually and then feeding the same to the spider.
+In the dark web, CAPTCHAs pose a problem for spiders. This was taken care of by solving CAPTCHAs manually and then feeding cookies to the spider.
 
 ## How to use these files?
 To use these files:
