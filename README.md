@@ -25,7 +25,7 @@ One advantage of Scrapy is that it comes with modules to send requests as well a
 
 ## Scrapped files
 
-The files that we have scrapped have been done in a controlled environment. Do not try to do the same without safety. Also, due to confidentiality, I have not uploaded the complete database file. Contact me at [jash.learn@gmail.com](mailto:jash.learn@gmail.com), for getting the access. 
+The files that we have scrapped have been done in a controlled environment. Do not try to do the same without safety. Also, due to confidentiality, I have not uploaded the complete database file. Contact me at [jash.learn@gmail.com](mailto:jash.learn@gmail.com), for getting the access. The data is available for viewing purpose, press [this](https://drive.google.com/drive/folders/1rOh8ye3Al_ElR2mWTqXsBSnvMQJs0c52?usp=sharing) link for the same.
 
 There are 4 different databse that we were able to scrap:
   * IronMarch Neo-Nazi Hackforum
