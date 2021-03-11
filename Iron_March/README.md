@@ -1,4 +1,8 @@
-# Iron March SQL Database
+# IronMarch Neo Nazi Hackforum
+
+The dataset is not available for free download. We have a torrent copy of the same, that we scrapped for the project. For getting its access, contact me at [jash.learn@gmail.com](mailto:jash.learn@gmail.com).
+
+## Iron March SQL Database
 
 This archive contains the SQL database dump of a backup of the Iron March forum, as well as scripts for converting the separate tables in the database into CSV files, and the CSV files themselves in the directory `csv/`.
 The original link was posted to Iron March's successor forum Fascist Forge in the post https://fascistforge.com/index.php?app=forums&module=forums&controller=topic&id=666, but that link is now dead.
