@@ -22,3 +22,17 @@ One advantage of Scrapy is that it comes with modules to send requests as well a
 * **BeautifulSoup** - It is an open-source tool and used for web scraping. However, unlike Scrapy, which is a web crawling and scraping framework, BeautifulSoup is not. BeautifulSoup is a module that can be used for pulling data out of HTML and XML documents. BeautifulSoup is a beginner-friendly tool that a newbie can hit the ground running with it. This is because it has very good documentation and a friendly user community. Most web scrapers must have used BeautifulSoup before heading over to Scrapy. The tool is not complex and makes it easier for you to transverse an HTML document and pick the required data.
 
 * **Selenium** - Selenium can send web requests and also comes with a parser. With Selenium, you can pull out data from an HTML document as you do with Javascript DOM API. The major advantage Selenium has is that it loads Javascript and can help you access data behind JavaScript without necessarily going through the pain of sending additional requests yourself. This had made Selenium not only useful to itself but to the other tools. Web scrapers that use either Scrapy or BeautifulSoup make use of Selenium if they require data that can only be available when Javascript files are loaded.
+
+## Scrapped files
+
+The files that we have scrapped have been done in a controlled environment. Do not try to do the same without safety. Also, due to confidentiality, I have not uploaded the complete database file. Contact me at [jash.learn@gmail.com](mailto:jash.learn@gmail.com), for getting the access. 
+
+There are 4 different databse that we were able to scrap:
+  * IronMarch Neo-Nazi Hackforum
+  * Nulled.io hackforum
+  * Indian Markets on darkweb
+  * Agora database
+
+Given below is a snapshot of the Agora database : 
+
+[Agora](https://github.com/Jash-2000/Dark-Web-Spiders/blob/main/Agora.PNG)
