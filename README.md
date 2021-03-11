@@ -35,4 +35,4 @@ There are 4 different databse that we were able to scrap:
 
 Given below is a snapshot of the Agora database : 
 
-[Agora](https://github.com/Jash-2000/Dark-Web-Spiders/blob/main/Agora.PNG)
+![Agora](https://github.com/Jash-2000/Dark-Web-Spiders/blob/main/Agora.PNG)
