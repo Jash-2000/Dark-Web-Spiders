@@ -38,3 +38,7 @@ There are 4 different databse that we were able to scrap:
 Given below is a snapshot of the Agora database : 
 
 ![Agora](https://github.com/Jash-2000/Dark-Web-Spiders/blob/main/Agora.PNG)
+
+## Sqlite-Python
+
+The scrapped files were constructed into an Sql Database for personal reasons. The following link gives a guide on how to connnect a Python session to a sql server : [https://github.com/Jash-2000/Dark-Web-analysis/tree/master/SQL2Python](https://github.com/Jash-2000/Dark-Web-analysis/tree/master/SQL2Python).
